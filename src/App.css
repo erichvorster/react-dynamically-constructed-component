@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.left-component{
+  height:400px;
+  width:400px;
+  background-color: brown;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.right-component{
+  height:400px;
+  width:400px;
+  background-color:cadetblue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  margin-bottom: 20px;
+  padding:20px;
+}
